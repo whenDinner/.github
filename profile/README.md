@@ -26,8 +26,8 @@
 ## 아래는 ``whenDinner`` 팀이 사용한 기술 스택 목록입니다.
 - - -
 > 
-> React.js <br>
-> Express.js<br>
+> Next.js(React) <br>
+> Nest.js<br>
 > MySQL <br>
 > Figma <br>
 > Android Java SDK <br>
